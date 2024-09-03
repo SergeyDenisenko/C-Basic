@@ -12,5 +12,13 @@ int main() {
     std::cout << "||        World        ||\r\n";
     std::cout << "=========================\r\n";
 
-
+    // Ещё лучше.
+    std::cout << "=========================\r\n";
+    std::cout << "||                     ||\r\n";
+    std::cout << "||                     ||\r\n";
+    std::cout << "||        Hello,       ||\r\n";
+    std::cout << "||        World        ||\r\n";
+    std::cout << "||                     ||\r\n";
+    std::cout << "||                     ||\r\n";
+    std::cout << "=========================\r\n";
 }
